@@ -36,4 +36,6 @@
 ## Run Tests
 
 		$ php artisan test
+        
+## API Doc: (https://documenter.getpostman.com/view/6819183/Tz5iB21v)
 
